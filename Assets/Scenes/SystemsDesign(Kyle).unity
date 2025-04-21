@@ -1517,6 +1517,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4472139254265131608, guid: e19749edaa9821647a863e10b51b4af1,
         type: 3}
+      propertyPath: brakeForce
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472139254265131608, guid: e19749edaa9821647a863e10b51b4af1,
+        type: 3}
       propertyPath: movementSpeed
       value: 18
       objectReference: {fileID: 0}
